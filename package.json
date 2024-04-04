@@ -1,0 +1,22 @@
+{
+  "name": "teamustwork",
+  "version": "1.0.0",
+  "description": "It's my first attempt in coding :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slavaqsyl/TeaMustWork.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slavaqsyl/TeaMustWork/issues"
+  },
+  "homepage": "https://github.com/Slavaqsyl/TeaMustWork#readme"
+}
